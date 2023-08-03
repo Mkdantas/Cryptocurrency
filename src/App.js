@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import { Link, Route, Routes } from 'react-router-dom';
-import './app.css';
+import './styles.css';
 import { Layout, Space, Typography } from 'antd';
 import Homepage from './components/Homepage';
 import Exchanges from './components/Exchanges';
